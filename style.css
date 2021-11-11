@@ -42,4 +42,10 @@ a.btn-field
     font-size: 32px;
     margin: 20px 0;
     color: red;
+    text-align: center;
+}
+
+.text-center
+{
+    text-align: center;
 }
