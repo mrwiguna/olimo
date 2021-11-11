@@ -21,3 +21,25 @@
     margin: 20px 0;
     color: darkorange;
 }
+
+a.btn
+{
+    margin: 5px 10px;
+    padding: 5px;
+    width:200px;
+    border-radius: 10px;
+}
+
+a.btn-field
+{
+    background-color: transparent;
+    color: brown;
+    border: 2px solid darkorange;
+}
+
+.zona-text
+{
+    font-size: 32px;
+    margin: 20px 0;
+    color: red;
+}
